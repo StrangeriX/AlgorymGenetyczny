@@ -1,5 +1,5 @@
 # AlgorymGenetyczny
 
-Pierwsze uruchomienie </b>
-pip install -r requirements.txt
+Pierwsze uruchomienie: </b>
+</br>pip install -r requirements.txt</br>
 python main.py
